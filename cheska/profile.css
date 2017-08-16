@@ -1,0 +1,24 @@
+
+#a{
+	letter-spacing:0em;
+	font-family:”Courier New”,Courier, monospace;
+	color: #FFFFFF
+	}
+#profile {
+	font-weight:bold;
+	color: gray;
+	font-size: 2em;letter-spacing:0em;
+	font-family:”Courier New”,Courier, monospace;
+}	
+.left{
+	font-weight:bold;
+	color: red;
+	font-size: 0.80em;letter-spacing:0em;
+	font-family:”Verdana”,Verdana, sans-serif;
+	}
+.right{
+	font-weight:bold;
+	color: black;font-size: 0.80em;letter-spacing:0em;
+	font-family:”Verdana”,Verdana, sans-serif;
+	
+	}
