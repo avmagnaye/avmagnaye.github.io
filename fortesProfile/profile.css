@@ -1,0 +1,48 @@
+body {
+     background-image: url("background.jpg");
+     
+}
+div{
+	border-style: solid;
+    border-color: blue;
+    margin :300px 500px 300px 500px
+}
+
+dt{
+	text-align: center;
+	font-style: bold;
+	font-size: 25px;
+}
+dd{
+	text-align: center;
+	font-style: oblique;
+	font-size: 20px;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: oblique;
+    font-size: 50px;
+}
+
+div {
+    
+    margin: auto;
+   
+   
+    padding: 20px;
+
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    text-align: center;
+
+}
+img {
+    display: block;
+    margin: auto;
+    border: solid;
+    
+}
